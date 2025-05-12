@@ -100,7 +100,7 @@ npx expo start
 
 | Tela Inicial            | Descrevendo a tarefa          | Tarefa Adicionada        |
 |-------------------------|----------------------------|------------------------|
-| ![](/template/Todo-Empty.png) | ![](/template/Todo-Description.png) | ![](/template/Todo-List.png) |
+| ![Tela Inicial](/template/Todo-Empty.png) | ![Descrevendo a tarefa](/template/Todo-Description.png) | ![Tarefa Adicionada](/template/Todo-List.png) |
 
 ---
 
